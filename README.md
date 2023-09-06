@@ -1,1 +1,1 @@
-# Covid-19-Analysis
+# Bank Customer Churn Classification and EDA
